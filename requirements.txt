@@ -1,4 +1,4 @@
-Django
+Django>=1.7
 leancloud-sdk>=1.0.9
 pyopenssl
 ndg-httpsclient
